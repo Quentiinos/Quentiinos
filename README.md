@@ -1,14 +1,14 @@
 <!-- Heading -->
-<h3 align="left"><strong>HI 👋, I'M QUENTIN</strong></h3>
+<h3 align="left"><strong>JE M'APPELLE QUENTIN 👋</strong></h3>
 
 ---
 <!-- Présentation -->
 <h3 align="left"><strong>PRÉSENTATION</strong></h3>
-<p>Passionate about Java and React development, my goal is to design dynamic digital experiences that seamlessly integrate server-side robustness with user-friendly interactions on the client side.</p>
+<p>Passionné par le développement, je m'efforce de créer des expériences numériques captivantes qui combinent la robustesse côté serveur avec des interactions utilisateurs intuitives et agréables. Toujours avide de nouvelles connaissances, j'ai un désir insatiable d'apprendre et de me perfectionner continuellement.</p>
 
 ---
 <!-- List of languages and tools -->
-<h3 align="left"><strong>LANGUAGES AND TOOLS</strong></h3>
+<h3 align="left"><strong>LANGAGES ET OUTILS</strong></h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -35,7 +35,7 @@
 
 ---
 <!--Contact me-->
-<h3 align="left"><strong>CONTACT ME</strong></h3>
+<h3 align="left"><strong>CONTACTEZ MOI</strong></h3>
 
 [![GMAIL](https://img.shields.io/badge/d.quentin.128%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:d.quentin.128%40gmail.com)](mailto:d.quentin.128@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-debaere)](https://www.linkedin.com/in/quentin-debaere)
