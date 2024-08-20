@@ -1,14 +1,14 @@
 <!-- Heading -->
-<h3 align="left"><strong>JE M'APPELLE QUENTIN 👋</strong></h3>
+<h3 align="left"><strong>HI, I'M QUENTIN 👋</strong></h3>
 
 ---
 <!-- Présentation -->
-<h3 align="left"><strong>PRÉSENTATION</strong></h3>
-<p>Passionné par le développement, je m'efforce de créer des expériences numériques captivantes qui combinent la robustesse côté serveur avec des interactions utilisateurs intuitives et agréables. Toujours avide de nouvelles connaissances, j'ai un désir insatiable d'apprendre et de me perfectionner continuellement.</p>
+<h3 align="left"><strong>PRESENTATION</strong></h3>
+<p>Driven by a passion for development, I focus on building engaging digital experiences that blend reliable server performance with user-friendly interactions. I’m always keen to learn and constantly seek to enhance my skills.</p>
 
 ---
 <!-- List of languages and tools -->
-<h3 align="left"><strong>LANGAGES ET OUTILS</strong></h3>
+<h3 align="left"><strong>LANGUAGES AND TOOLS</strong></h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -30,13 +30,14 @@
 ![VSCODE](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAOVBMVEVHcEwICAgXFxcXFxenp6e/v7/Ly8vW1tbb29ve3t7i4uL7+/vg4OD7+/v////n5+fm5ubd3d3b29sQ7BMkAAAADnRSTlMABQsTLERdfJ681d3q/LSv7iIAAAUrSURBVHjaxZuNgqogFITlT4U0oPd/2Bsbu3NX03NOqDsP0HwMNMmputNkhzDf59votFLd1VJKOf/IKd7v9xfCpRDFrg+Poni/EgEAuvo/8pMACJf6V+X7SzePFM73H6bHt/J8/0HoDQjO3H8DfwBchaBUZ8eXNQCg2fdWPXXm+i38AQDNYTgTAf4rAAgIZ6zfPwiAkxBQfzQAEE70hyrASrfBanWsvXalfogEoPlWUji+/ugEgBCcUsf70wlAN6dOqF86ASjYE+qXTgCahzPqh04ACmfUL50ANJ/iTycAHVS/0gSg4+rv+gTg/2cJ4On3TxJQqL/mBNr9r09AoX7/IAHU7/UJwB/1c0wCyrre6Yb6a0qgBBpymrxTSgn82xPAC6YYU4zTYIDAqd/2BOBflNJo9wkU6u+QBOqCin8l8PszDfhzNFEA9QVThLAN1NMvLT/cKIDiH+JvYRuI+iM0jdbSAHrtj21o8x+sYQD0Ib7R1INAVL+Q741hAKzWv/NuQP0yNFrDAvDxvbANwvpB/DyAaRMght/bIPEPJX4eQIrbmnCJlq3fO1P0aQJQ8k4VdQr1y4+/4QyAoGzDS87L4tdFDIB+JwLUotLOi+LXVTSA2SFALaJ+6PL79ldMAJogOLZ/GEz1V0UcAP0kCATBNAZR/PDnARgXIqHMLD8sv+u4CXwR+EQQJGH83VNcgEJgPQWQsiT+TgBQCcZEErDjV50AQCkQUAh75beInw8gIch5K/4e/l0nAwCBGVIkEba2H8uXAvwimKJoG/DZA38xAEFAN0JYxC8HAAFqmb8NY40f/kKAJUGIpDIZvxwABI5BkFbxq+LfAgAC1DJdSn4RfwtA/ewwqGXiIOCjH/afAUASgphRfvBvBUAnpkiqAFT/VgDoi6A8/WaaIKWyBfBvBEAE7unPJPAOG3AQgKr+JAGusIclgMs3nwCThHYA+BMExBW2BaD6Qyky9Lo7HQCA4YOQIOMK2wCg4C8miBhvtgBY+EsIsA2fAZCX/xwhYpLwEQA9fEisEJLHQRAC0LNfViHUSYIYgJi9CirpNUkQA8CfIEj77qhFAQBGtdS1c5wSS8HJb0aM4Yd3pmcSYM7NBqj+1LWzD4mn0QoBXGDd+o1jEWDOzQYYyYlzlfOJpfqQwAaY6PirLJegbEMRD4AceUJ2TPxtYA+pJnrirLU2WkRQa1G3nYHRVfsq8xSXoHw6MQeVLmzHj6ETLvA58giSdzwA48J2/Jj5gWASbIM2DADj/LvyWw6dJASoRQaABsFi4gz75RAjcTVaFoCxnjN0AUFIXPmBN6q1487Ic03g2AQxzyQACLbjB4HSglrOKSUaoBIM0/uJ8+ryqPi1HHNKd0LIdfDTNG3PvNYzBJboBEBgXb9887UT0AmgZKqwfAZB+xnAYERX+z3/RSVlGoFOAMe7CvFvSFSKkQLA8a4MCv7tBJx3QZWCCHdhLdNnAKLcZbUcM+8MCCSs5Sg4A3Jhsut82xloI9BELZ8BADEIcprPBCBLMZNnYO6glqM4vrentyB0bSKeljMAGn7c3lKKFIC33dkExB8cDGkgqWXpFgRnCIDmWs5p908uxujuCO3V8ubqi73RAGjOQKOWyTMwh3rzbAZYf+XHOQPV3mgaoL2W57erJ77xa69lVOHS3vewP/R/qOptLee4tDewb1i/4Gl58ZdP4erbSzFu2cP/XIL4Y+8W4ZP+7bWMIryNrmH1DbUc46X2699BzKXyr7GH1M/EIcz/229c+/4BKlMrNos+F3wAAAAASUVORK5CYII=)
 ![INTELLIJ](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![TALEND](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
 
 ---
 <!--Contact me-->
-<h3 align="left"><strong>CONTACTEZ MOI</strong></h3>
+<h3 align="left"><strong>CONTACT ME</strong></h3>
 
 [![GMAIL](https://img.shields.io/badge/d.quentin.128%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:d.quentin.128%40gmail.com)](mailto:d.quentin.128@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-debaere)](https://www.linkedin.com/in/quentin-debaere)
